@@ -24,6 +24,7 @@
     "lazygit": "^1.0.4",
     "lucide-react": "^0.511.0",
     "react": "^19.1.0",
+    "react-device-detect": "^2.2.3",
     "react-dom": "^19.1.0",
     "react-router-dom": "^7.6.0",
     "react-terminal": "^1.4.5",
