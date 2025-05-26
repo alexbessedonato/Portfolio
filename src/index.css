@@ -49,6 +49,9 @@
     background-position: -100% 0;
   }
 }
+.html {
+  scroll-behavior: smooth;
+}
 
 .moving-background {
   background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),

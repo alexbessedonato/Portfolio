@@ -4,9 +4,9 @@ import { commands } from "./constants/terminalCommands";
 
 export const Terminal = () => {
   return (
-    <div className="px-8 pb-12 mt-12">
+    <div className="h-full overflow-auto">
       <ReactTerminal
-        className="px-40 pb-50"
+        className="h-full"
         welcomeMessage="Welcome to my Macintosh 2010 themed portfolio! "
         showControlButtons={false}
         commands={commands}
